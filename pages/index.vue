@@ -1,8 +1,8 @@
 <template>
   <div>
     <logo />
-    <h1 class="title">Nuxt.js & Netlify CMS Starter</h1>
-    <h2 class="subtitle">Truly fantastic. Sometimes I astound even myself.</h2>
+    <h1 class="title">Testing Client</h1>
+    <h2 class="subtitle">Testing Client.</h2>
     <a href="https://github.com/xdesro/nuxt-netlify-cms-starter">GitHub</a>
     <a href="http://i.ncredibly.online">Twitter</a>
     <nuxt-link to="/blog">Blog</nuxt-link>
